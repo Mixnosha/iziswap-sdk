@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/izumiFinance/iZiSwap-SDK-go/library/calc"
-	"github.com/izumiFinance/iZiSwap-SDK-go/library/swapmathdesire"
-	"github.com/izumiFinance/iZiSwap-SDK-go/library/utils"
+	"github.com/Mixnosha/iziswap-sdk/library/calc"
+	"github.com/Mixnosha/iziswap-sdk/library/swapmathdesire"
+	"github.com/Mixnosha/iziswap-sdk/library/utils"
 )
 
 func SwapX2YDesireY(

@@ -1,3 +1,3 @@
-module github.com/izumiFinance/iZiSwap-SDK-go
+module github.com/Mixnosha/iziswap-sdk
 
 go 1.20
